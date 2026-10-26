@@ -17,12 +17,10 @@ build/
 
 # Local environment files
 *.local
-.env
 .firebase/
 firebase-service-account.json
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea/
 .DS_Store
@@ -39,6 +37,4 @@ Desktop.ini
 
 # Vercel
 .vercel/
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
+config.bat
